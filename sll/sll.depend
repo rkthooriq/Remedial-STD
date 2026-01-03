@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1767458177 source:c:\users\rktho\remedial-std\sll\sll.cpp
+	<iostream>
+	<string>
+	"sll.h"
+
+1767458115 c:\users\rktho\remedial-std\sll\sll.h
+
+1767458416 source:c:\users\rktho\remedial-std\sll\main.cpp
+	<iostream>
+	"dll.h"
+
+1767458115 c:\users\rktho\remedial-std\sll\dll.h
+
